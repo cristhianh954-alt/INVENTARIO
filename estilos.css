@@ -7,7 +7,7 @@ body {
 
 table {
     width: 100%;
-    border-collapse: collapse; /* Une los bordes de las celdas */
+    border-collapse: collapse; 
 }
 
 th, td {
@@ -30,15 +30,15 @@ th {
 
 .agotado {
     background-color: #f8d7da;
-} /* Rojo claro */ 
+} 
 
 .bajo-stock {
     background-color: #fff3cd;
-} /* Amarillo claro */ 
+}  
 
 .disponible {
     background-color: #d4edda;
-} /* Verde claro */
+} 
 
 #resumen {
     margin-top: 20px;
